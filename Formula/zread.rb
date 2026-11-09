@@ -1,8 +1,8 @@
 class Zread < Formula
   desc "Markdown reader for macOS that opens a repository as articles"
   homepage "https://pierry.github.io/zread/"
-  url "https://github.com/Pierry/zread/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "d9783b1ae520a833d897916faa07fe1aa9cddcd7876af3613d4972c21a043dc9"
+  url "https://github.com/Pierry/zread/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "6da2d345ea856ca0d4352ce13591962080e4c59c31069f24e5ca254866878a07"
   license "MIT"
 
   depends_on xcode: ["15.0", :build]
