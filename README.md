@@ -1,7 +1,7 @@
-# homebrew-zread
+# homebrew-ezread
 
-Homebrew tap for [zread](https://github.com/Pierry/zread).
+Homebrew tap for [ezread](https://github.com/Pierry/ezread), formerly zread.
 
 ```sh
-brew install pierry/zread/zread
+brew install pierry/ezread/ezread
 ```
